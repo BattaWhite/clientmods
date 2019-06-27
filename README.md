@@ -1,6 +1,8 @@
 # clientmods
 WU Client side mods to make life easier 
 
+These mods may need to be updated if the game itself gets an update, but they currently are working on Wurm Unlimited version 1.9.1.6
+
 Make sure you are logged out of all Wurm Unlimited servers and Wurm Unlimited Dedicated servers before you add, subtract, or configure any mods.
 
 1.  Download the zip file that you’ll find here.   I always download to my computer’s Downloads file, to make it easier to find things later.
